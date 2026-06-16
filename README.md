@@ -16,6 +16,6 @@ A full-stack restaurant ordering app built with Expo, React Native, and Firebase
 - Zod
 
 
-Copyright © 2026 [Your Name]. All rights reserved.
+Copyright © 2026 Ramiro Fernandez. All rights reserved.
 
 This source code is provided for viewing purposes only. No permission is granted to use, copy, modify, or distribute this software.
